@@ -7,16 +7,15 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Zaffar Mohammed   
-    tagline: SRE-DeVops Engineer 
+    name: Zaffar
+    tagline: DataOps/ML/DevOps Cloud Engineer 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: unixzedu@outlook.com
+    email: 
     phone: message me for phone number. 
-    linkedin: alandoe
     github: Zaffnix
-    twitter: '@zaffnix'
+    twitter: zaff
 
 
     languages:
@@ -25,9 +24,6 @@ sidebar:
 
       - idiom: Dutch
         level: Beginner
-
-      - idiom: urdu
-        level: Intermediate
 
     interests:
       - item: Watching movies
@@ -49,17 +45,8 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: Bachelor of Computer science. 
-      university: Jawharlal Nehru technological university. 
-      time: 2002 - 2006
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Bachelor of Computer science Engineering 
+      
 experiences:
     - role: Lead Developer
       time: 2015 - Present
